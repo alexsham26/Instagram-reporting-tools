@@ -1,7 +1,7 @@
 # Instagram-reporting-tools
 🔥 Instagram Auto Report (By Alex Sham) 🔥
 
-╭━━╴♻️ Upgrade 12.02.2024
+╭━━╴♻️ Upgrade 13.02.2024
 ├ All users accounts is Update + Proxy.
 ├ Over 900 k users active.
 ├ Bot can report a account with max 5.4 M Followers.
