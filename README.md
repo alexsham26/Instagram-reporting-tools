@@ -20,4 +20,4 @@ Video: 👉 https://t.me/AlexShamChannel
 
 
 > [!CAUTION]
-> **Warning!:** Use this application wisely. As the creator, I am not responsible if used incorrectly..
+> **Warning!:** Use this application wisely. As the creator, I am not responsible if used incorrectly.
