@@ -12,9 +12,16 @@ Telegram: 👉 https://t.me/AlexSham7
 Video: 👉 https://t.me/AlexShamChannel
 ▔▔▔▔▔▔╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ## Application Tools Report Instagram
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/9c01e4bd-da3e-4368-875d-476a78f6b4a0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/fa9cf8fe-66f1-4882-8471-2f489abe5edc">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
 
+Here's our logo (hover to see the title text):
+
+Inline-style: 
+![alt text]("https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/de62bc0c-4c98-4e01-b032-44e8fdd136b2")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
