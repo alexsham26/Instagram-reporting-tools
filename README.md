@@ -16,8 +16,9 @@ Video: 👉 https://t.me/AlexShamChannel
 | -------- | -------- |
 | !alt 1 | !alt 2 |
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/image1.png" width="45%" style="border: 5px solid black;"/>
+  <img src="https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/15a18609-fba9-4d96-a89c-90e5b08cf01d" width="45%" style="border: 5px solid black;"/>
   <img src="images/image2.png" width="45%" style="border: 5px solid black;"/>
 </div>
+
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
