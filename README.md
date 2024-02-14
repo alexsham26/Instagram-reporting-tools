@@ -14,11 +14,9 @@ Video: 👉 https://t.me/AlexShamChannel
 ## Application Tools Report Instagram
 | Gambar 1 | Gambar 2 |
 | -------- | -------- |
-| !alt 1 | !alt 2 |
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/15a18609-fba9-4d96-a89c-90e5b08cf01d" width="45%" style="border: 5px solid black;"/>
-  <img src="images/image2.png" width="45%" style="border: 5px solid black;"/>
-</div>
+| ![AlexSham](https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/c5dca98c-4a72-4ee4-92e7-2b98c015e6da)| ![AlexSham2](https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/95b12cd8-d0e7-4f58-8953-4e7ff83417c3)
+ |
+
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
