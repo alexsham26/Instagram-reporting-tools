@@ -13,15 +13,5 @@ Video: 👉 https://t.me/AlexShamChannel
 ▔▔▔▔▔▔╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ## Application Tools Report Instagram
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text]("https://github.com/alexsham26/Instagram-reporting-tools/assets/159854180/de62bc0c-4c98-4e01-b032-44e8fdd136b2")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
