@@ -7,9 +7,9 @@
 ├ Bot can report a account with max 5.4 M Followers.
 ├ It is very easy to use just by following the steps in the video on my channel.
 
-Telegram: 👉 https://t.me/AlexSham7 
+Telegram: 👉 https://t.me/alexsham77 
 <br>
-Video: 👉 https://t.me/AlexShamChannel
+Video: 👉 https://t.me/alexshamchannel7
 ▔▔▔▔▔▔╲▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 # Application Tools Report Instagram
 | Home Page | Tools | Report | Banned |
